@@ -22,5 +22,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/git-biv/git-biv/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
